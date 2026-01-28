@@ -20,6 +20,7 @@ Vanderbilt University <br>
 [Davis & Scrimgeour (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.442.1117D/abstract) <br>
 [Filter Response Curves](http://svo2.cab.inta-csic.es/theory/fps/) <br>
 
+### Week 4
 <!-- Upcoming resources are commented out
 [Git](https://git-scm.com/downloads/) <br>
 
